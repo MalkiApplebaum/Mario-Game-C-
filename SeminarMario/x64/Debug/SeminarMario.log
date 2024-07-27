@@ -1,0 +1,56 @@
+﻿  Animation.cpp
+  Entities.cpp
+  EntitiesPool.cpp
+D:\Users\The user\Desktop\‏‏תיקיה חדשה\2\marionew\Day1\SeminarMario\EntitiesPool.cpp(35,21): warning C4553: '==': result of expression not used; did you intend '='?
+  Graphics.cpp
+  HeroEntity.cpp
+  Observer.cpp
+  Physics.cpp
+D:\Users\The user\Desktop\‏‏תיקיה חדשה\2\marionew\Day1\SeminarMario\Physics.cpp(180,1): warning C4010: single-line comment contains line-continuation character
+  pracrice.cpp
+D:\Users\The user\Desktop\‏‏תיקיה חדשה\2\marionew\Day1\SeminarMario\pracrice.cpp(81,72): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\Users\The user\Desktop\‏‏תיקיה חדשה\2\marionew\Day1\SeminarMario\pracrice.cpp(96,72): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\Users\The user\Desktop\‏‏תיקיה חדשה\2\marionew\Day1\SeminarMario\pracrice.cpp(114,71): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\Users\The user\Desktop\‏‏תיקיה חדשה\2\marionew\Day1\SeminarMario\pracrice.cpp(141,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Users\The user\Desktop\‏‏תיקיה חדשה\2\marionew\Day1\SeminarMario\pracrice.cpp(142,51): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\Users\The user\Desktop\‏‏תיקיה חדשה\2\marionew\Day1\SeminarMario\pracrice.cpp(156,73): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\Users\The user\Desktop\‏‏תיקיה חדשה\2\marionew\Day1\SeminarMario\pracrice.cpp(177,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Users\The user\Desktop\‏‏תיקיה חדשה\2\marionew\Day1\SeminarMario\pracrice.cpp(188,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Users\The user\Desktop\‏‏תיקיה חדשה\2\marionew\Day1\SeminarMario\pracrice.cpp(189,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Users\The user\Desktop\‏‏תיקיה חדשה\2\marionew\Day1\SeminarMario\pracrice.cpp(195,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Users\The user\Desktop\‏‏תיקיה חדשה\2\marionew\Day1\SeminarMario\pracrice.cpp(204,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Users\The user\Desktop\‏‏תיקיה חדשה\2\marionew\Day1\SeminarMario\pracrice.cpp(205,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Users\The user\Desktop\‏‏תיקיה חדשה\2\marionew\Day1\SeminarMario\pracrice.cpp(236,74): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  pracrice_Day2.cpp
+  pracrice_Day4.cpp
+  SlimeEntity.cpp
+  Timer.cpp
+D:\Users\The user\Desktop\‏‏תיקיה חדשה\2\marionew\Day1\SeminarMario\Timer.cpp(12,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+D:\Users\The user\Desktop\‏‏תיקיה חדשה\2\marionew\Day1\SeminarMario\Physics.cpp(167): warning C4172: returning address of local variable or temporary
+D:\Users\The user\Desktop\‏‏תיקיה חדשה\2\marionew\Day1\SeminarMario\Physics.cpp(206): warning C4172: returning address of local variable or temporary
+  SeminarMario.vcxproj -> D:\Users\The user\Desktop\‏‏תיקיה חדשה\2\marionew\Day1\x64\Debug\SeminarMario.exe
