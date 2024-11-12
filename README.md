@@ -12,7 +12,6 @@ The **Mario Game** is a C++ side-scrolling platformer inspired by the classic Ma
 
 ### Prerequisites
 - **C++ Compiler**: Ensure you have a C++ compiler installed (e.g., GCC or MSVC).
-- **SFML Library (Optional)**: If your game uses SFML for graphics, make sure it's installed.
 
 ### Installation
 1. **Clone the Repository**:
