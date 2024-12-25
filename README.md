@@ -1,4 +1,5 @@
 # Mario Game
+### Developed by Malki Applebaum ✍️
 
 ## Description
 The **Mario Game** is a C++ side-scrolling platformer inspired by the classic Mario games. Players navigate through levels, jumping over obstacles, avoiding or defeating enemies, and collecting points.
